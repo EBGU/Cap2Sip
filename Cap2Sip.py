@@ -247,7 +247,7 @@ RasterPlot(FileAddress+FileName2,1,24,1)
 PlotSip2(FileAddress,FileName1,FileName2,"Accum",1,24,1)
 PlotSip2(FileAddress,FileName1,FileName2,"Dur",1,24,1)
 
-# SipChannelPlot plots the ratio of total time of sips in 50s of SINGLE channels(files). 
+# SipChannelPlot plots the ratio of total time of sips in 50s of SINGLE channels(flies). 
 SipChannelPlot(FileAddress+FileName1,10)
 
 '''
